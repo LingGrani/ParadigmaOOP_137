@@ -5,7 +5,7 @@ class jantung
 {
 public:
 	string nama;
-	jantung(string pNama) :nama(pNama) {
+	jantung() {
 		cout << " jantung dihidupkan\n";
 	}
 	~jantung() {
