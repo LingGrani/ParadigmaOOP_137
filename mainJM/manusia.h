@@ -9,7 +9,7 @@ public:
 		cout << nama << " hidup\n";
 	}
 	~manusia() {
-		cout << nama << "mati\n";
+		cout << nama << " mati\n";
 	}
 };
 #endif // !MANUSIA_H
