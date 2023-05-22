@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_137", "ParadigmaOOP_137\ParadigmaOOP_137.vcxproj", "{11748FBF-9F51-4CBE-A952-85B4BEAD7CA4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pewarisan", "ParadigmaOOP_137\ParadigmaOOP_137.vcxproj", "{11748FBF-9F51-4CBE-A952-85B4BEAD7CA4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcxproj", "{665112AA-5505-4F58-A0E1-08114479EB6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosiasi.vcxproj", "{AA4B4AB3-7BAA-4365-B936-438978B5F23E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{11748FBF-9F51-4CBE-A952-85B4BEAD7CA4}.Release|x64.Build.0 = Release|x64
 		{11748FBF-9F51-4CBE-A952-85B4BEAD7CA4}.Release|x86.ActiveCfg = Release|Win32
 		{11748FBF-9F51-4CBE-A952-85B4BEAD7CA4}.Release|x86.Build.0 = Release|Win32
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Debug|x64.ActiveCfg = Debug|x64
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Debug|x64.Build.0 = Debug|x64
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Debug|x86.Build.0 = Debug|Win32
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Release|x64.ActiveCfg = Release|x64
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Release|x64.Build.0 = Release|x64
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Release|x86.ActiveCfg = Release|Win32
+		{665112AA-5505-4F58-A0E1-08114479EB6B}.Release|x86.Build.0 = Release|Win32
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Debug|x64.ActiveCfg = Debug|x64
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Debug|x64.Build.0 = Debug|x64
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Debug|x86.Build.0 = Debug|Win32
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Release|x64.ActiveCfg = Release|x64
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Release|x64.Build.0 = Release|x64
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Release|x86.ActiveCfg = Release|Win32
+		{AA4B4AB3-7BAA-4365-B936-438978B5F23E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
