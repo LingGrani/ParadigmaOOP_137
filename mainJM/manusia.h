@@ -5,7 +5,7 @@ class manusia
 {
 public:
 	string nama;
-	manusia() {
+	manusia(string pName):nama(pName) {
 		cout << nama << " hidup\n";
 	}
 	~manusia() {
@@ -13,4 +13,3 @@ public:
 	}
 };
 #endif // !MANUSIA_H
-
