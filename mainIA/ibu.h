@@ -17,11 +17,12 @@ public:
 	void cetakAnak();
 };
 
-ibu::ibu()
+void ibu::tambahAnak(anak* pAnak)
 {
+	daftar_anak.push_back(pAnak);
 }
 
-ibu::~ibu()
+void ibu::cetakAnak()
 {
 }
 #endif // !IBU_H
